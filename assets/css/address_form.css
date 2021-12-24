@@ -60,6 +60,7 @@
           width: 50px; }
   
   .header {
+    outline: #007bff;
     position: relative;
     width: 100%;
     padding: 5rem 10rem;

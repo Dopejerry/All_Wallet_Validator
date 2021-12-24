@@ -1,0 +1,115 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body{
+    margin: 0;
+    padding: 0%;
+}
+
+body{
+    position: relative;
+    width: 1442px;
+    height: 5541px ;
+    background-color: black;
+}
+.nav_section{
+    position: absolute;
+    width: 1440px;
+    height: 75px;
+    left: 0px;
+    top: 0px;
+
+}
+
+.logo{
+    position: absolute;
+    width: 27px;
+    height: 24.18px;
+    left: 110px;
+    top: 14px;
+}
+
+span{
+    color: #205CF6;
+}
+.logo_text{
+    position: absolute;
+    width: 266px;
+    height: 55px;
+    left: 139px;
+    top: 3px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+
+
+}
+.hero_section{
+    position: absolute;
+    width: 1440px;
+    height: 884px;
+    left: 0px;
+    top: 93px;
+}
+
+.hero_description{
+    position: absolute;
+    width: 476px;
+    height: 520px;
+    left: 120px;
+    top: 200px;
+
+
+}
+
+.hero_image{
+    position: absolute;
+    width: 576px;
+    height: 551px;
+    left: 742px;
+    top: 110px;
+
+}
+
+.hero_description_title_1{
+    position: absolute;
+    width: 476px;
+    height: 89px;
+    left: 20px;
+    top: 2px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 53px;
+    line-height: 79px;
+    display: flex;
+    align-items: center;
+    color: #205CF7;
+
+
+}
+
+.hero_description_content{
+    position: absolute;
+    width: 476px;
+    height: 134px;
+    left: 120px;
+    top: 700px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+
+
+}
