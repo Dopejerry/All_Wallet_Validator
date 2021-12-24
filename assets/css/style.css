@@ -2,10 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
 
-body{
-    margin: 0;
-    padding: 0%;
-}
 
 body{
     position: relative;
@@ -13,6 +9,7 @@ body{
     height: 5541px ;
     background-color: black;
 }
+
 .nav_section{
     position: absolute;
     width: 1440px;
